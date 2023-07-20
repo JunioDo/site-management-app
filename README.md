@@ -1,7 +1,7 @@
 
 # Website Content Management App
 
-This is a Flutter application designed for Android and desktop platforms. The app is currently under development and aims to provide a user-friendly interface for updating text and images on a website. Additionally, it facilitates communication between the user and the website's bot, allowing the user to receive and respond to messages. The app also includes visual aids such as graphs and charts to help the user analyze survey data easily.
+This is a Flutter application designed for Android and desktop platforms. The app aims to provide a user-friendly interface for updating text and images on a website. Additionally, it facilitates communication between the user and the website's bot, allowing the user to receive and respond to messages. The app also includes visual aids such as graphs and charts to help the user analyze survey data easily.
 
 ## Features
 
